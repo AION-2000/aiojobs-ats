@@ -40,6 +40,28 @@
 
 AIOJobs is a next-generation Applicant Tracking System (ATS) that leverages artificial intelligence to revolutionize the recruitment process. Built with modern web technologies and powered by Google's Gemini AI, AIOJobs bridges the gap between talented candidates and forward-thinking organizations through intelligent automation, real-time analytics, and intuitive user experiences.
 
+### 📸 Screenshots
+
+<div align="center">
+
+#### 🏠 Landing Page - Hero Section
+![AIOJobs Landing Page](https://raw.githubusercontent.com/AION-2000/aiojobs-ats/main/screenshots/landing-hero.png)
+*AI-powered job matching with modern glassmorphism design*
+
+#### 💼 Trending Opportunities
+![Trending Jobs](https://raw.githubusercontent.com/AION-2000/aiojobs-ats/main/screenshots/trending-jobs.png)
+*Curated job listings with salary ranges and tech stacks*
+
+#### 📊 Candidate Dashboard
+![Candidate Dashboard](https://raw.githubusercontent.com/AION-2000/aiojobs-ats/main/screenshots/candidate-dashboard.png)
+*Application tracking with AI profile strength analysis*
+
+#### 🔐 Authentication
+![Sign In Page](https://raw.githubusercontent.com/AION-2000/aiojobs-ats/main/screenshots/signin.png)
+*Secure authentication with role-based access control*
+
+</div>
+
 ### Problems We Solve
 
 - **Black Hole Applications**: Transparent pipeline visibility eliminates the "application black hole" problem
