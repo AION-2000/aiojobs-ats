@@ -3,14 +3,20 @@ import { GoogleGenAI, Type } from "@google/genai";
 import { ResumeData } from "../types";
 
 export class GeminiService {
-  private ai: GoogleGenAI;
+  private ai: GoogleGenAI | null = null;
 
-  constructor() {
-    this.ai = new GoogleGenAI({ apiKey: process.env.API_KEY || '' });
+  private getClient() {
+    // Initialize lazily to ensure it picks up the latest environment variables
+    const apiKey = process.env.API_KEY;
+    if (!apiKey) {
+      throw new Error("Gemini API Key is missing. Please check your Vercel Environment Variables.");
+    }
+    return new GoogleGenAI({ apiKey });
   }
 
   async parseResume(resumeText: string): Promise<ResumeData> {
-    const response = await this.ai.models.generateContent({
+    const ai = this.getClient();
+    const response = await ai.models.generateContent({
       model: "gemini-3-flash-preview",
       contents: `Extract the following details from this resume text into a structured JSON format:
       Name, Email, Phone, Skills, Experience (title, company, duration), and Education (degree, institution, year).
