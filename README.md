@@ -40,25 +40,32 @@
 
 AIOJobs is a next-generation Applicant Tracking System (ATS) that leverages artificial intelligence to revolutionize the recruitment process. Built with modern web technologies and powered by Google's Gemini AI, AIOJobs bridges the gap between talented candidates and forward-thinking organizations through intelligent automation, real-time analytics, and intuitive user experiences.
 
-### 📸 Screenshots
+## 📸 Screenshots
 
 <div align="center">
 
-#### 🏠 Landing Page - Hero Section
-![AIOJobs Landing Page](https://raw.githubusercontent.com/AION-2000/aiojobs-ats/main/screenshots/landing-hero.png)
-*AI-powered job matching with modern glassmorphism design*
+### 🏠 Landing Page - Hero Section
+<img src="https://github.com/AION-2000/aiojobs-ats/blob/main/screenshots/landing-hero.png?raw=true" width="900" />
+<p><i>AI-powered job matching with modern glassmorphism design</i></p>
 
-#### 💼 Trending Opportunities
-![Trending Jobs](https://raw.githubusercontent.com/AION-2000/aiojobs-ats/main/screenshots/trending-jobs.png)
-*Curated job listings with salary ranges and tech stacks*
+---
 
-#### 📊 Candidate Dashboard
-![Candidate Dashboard](https://raw.githubusercontent.com/AION-2000/aiojobs-ats/main/screenshots/candidate-dashboard.png)
-*Application tracking with AI profile strength analysis*
+### 💼 Trending Opportunities
+<img src="https://github.com/AION-2000/aiojobs-ats/blob/main/screenshots/trending-jobs.png?raw=true" width="900" />
+<p><i>Curated job listings with salary ranges and tech stacks</i></p>
 
-#### 🔐 Authentication
-![Sign In Page](https://raw.githubusercontent.com/AION-2000/aiojobs-ats/main/screenshots/signin.png)
-*Secure authentication with role-based access control*
+---
+
+### 📊 Candidate Dashboard
+<img src="https://github.com/AION-2000/aiojobs-ats/blob/main/screenshots/candidate-dashboard.png?raw=true" width="900" />
+<p><i>Application tracking with AI profile strength analysis</i></p>
+
+---
+
+### 🔐 Authentication
+<img src="https://github.com/AION-2000/aiojobs-ats/blob/main/screenshots/signin.png?raw=true" width="900" />
+<p><i>Secure authentication with role-based access control</i></p>
+
 
 </div>
 
