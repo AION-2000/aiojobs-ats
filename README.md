@@ -45,25 +45,29 @@ AIOJobs is a next-generation Applicant Tracking System (ATS) that leverages arti
 <div align="center">
 
 ### 🏠 Landing Page - Hero Section
-<img src="https://github.com/AION-2000/aiojobs-ats/blob/main/screenshots/landing-hero.png?raw=true" width="900" />
+<img width="1897" height="906" alt="Screenshot 2025-12-19 014230" src="https://github.com/user-attachments/assets/38ad6f28-d574-4fff-8c3b-b2ea1734a073" />
+
 <p><i>AI-powered job matching with modern glassmorphism design</i></p>
 
 ---
 
 ### 💼 Trending Opportunities
-<img src="https://github.com/AION-2000/aiojobs-ats/blob/main/screenshots/trending-jobs.png?raw=true" width="900" />
+<img width="1883" height="607" alt="Screenshot 2025-12-19 014305" src="https://github.com/user-attachments/assets/2f33c158-58ff-4bf6-8f7a-1d76f227ca1a" />
+
 <p><i>Curated job listings with salary ranges and tech stacks</i></p>
 
 ---
 
 ### 📊 Candidate Dashboard
-<img src="https://github.com/AION-2000/aiojobs-ats/blob/main/screenshots/candidate-dashboard.png?raw=true" width="900" />
+<img width="1885" height="889" alt="Screenshot 2025-12-19 014335" src="https://github.com/user-attachments/assets/7eb00772-2938-431e-967c-15ba5ce614e3" />
+
 <p><i>Application tracking with AI profile strength analysis</i></p>
 
 ---
 
 ### 🔐 Authentication
-<img src="https://github.com/AION-2000/aiojobs-ats/blob/main/screenshots/signin.png?raw=true" width="900" />
+<img width="1896" height="846" alt="Screenshot 2025-12-19 014433" src="https://github.com/user-attachments/assets/c65cd462-a771-4d1a-a91f-b841039b39e5" />
+
 <p><i>Secure authentication with role-based access control</i></p>
 
 
