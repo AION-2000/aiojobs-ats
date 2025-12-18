@@ -1,0 +1,6 @@
+
+{
+  "name": "AIOJobs ATS - Modern Job Portal",
+  "description": "A premium, motion-driven Job Portal and Applicant Tracking System (ATS) built with React, Tailwind CSS, and Framer Motion, featuring AI-powered resume parsing via Gemini.",
+  "requestFramePermissions": []
+}
